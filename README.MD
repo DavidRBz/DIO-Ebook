@@ -78,7 +78,7 @@ Copilot Designer：
   &nbsp;&nbsp;&nbsp;<a href="https://github.com/DavidRBz">GitHub</a>&nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/felipe-exe">LinkedIn</a>&nbsp;|&nbsp;
 </p>
-<br/><br/>
+<br/>
 
 
 ---
