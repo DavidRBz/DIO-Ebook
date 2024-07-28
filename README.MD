@@ -65,22 +65,21 @@ Copilot Designer：
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/147557030"
-    />
+  <img 
+    align="left" 
+    style="margin: 10px;" 
+    width="80" 
+    src="https://avatars.githubusercontent.com/u/147557030"
+  />
+</p>
 
-    <p>&nbsp&nbsp&nbspDavid RBz<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/DavidRBz">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;</p>
+<p>
+  &nbsp;&nbsp;&nbsp;David RBz<br>
+  &nbsp;&nbsp;&nbsp;<a href="https://github.com/DavidRBz">GitHub</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/felipe-exe">LinkedIn</a>&nbsp;|&nbsp;
 </p>
 <br/><br/>
-<p>
+
 
 ---
 
